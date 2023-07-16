@@ -10,11 +10,9 @@ from logging import NullHandler
 
 # フォルダのパス
 path_current_dir = os.path.dirname(sys.argv[0])
-# テスト用
 vea_folder_path = "vea_dog"
 
 # 画像のパス
-# テスト用
 image_paths = [
     "image/bawwow.PNG",
     "image/I'meating.PNG",
